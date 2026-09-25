@@ -37,6 +37,7 @@ tenacity>=8.2.0
 orjson>=3.9.0
  
 psycopg2-binary
+reportlab
 
 # Typing support (helps in bigger projects)
 pydantic>=2.5.0
